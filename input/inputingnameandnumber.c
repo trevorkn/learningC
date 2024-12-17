@@ -14,8 +14,8 @@ int main(){
     printf("Enter your number:");
     scanf("%d", &phoneNum);
 
-    printf("My name is %s\n", name);
-    printf("My number is %d\n", phoneNum);
+    printf("Your name is %s\n", name);
+    printf("Your number is %d\n", phoneNum);
 
 return 0;
 }
