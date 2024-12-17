@@ -9,7 +9,7 @@ int main(){
     printf("Enter your name:");
     fgets(name, 20, stdin);
 
-    printf("Your name is %s", name);
+    printf("Your name is %s\n", name);
 
 return 0;
 }
